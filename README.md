@@ -8,7 +8,7 @@ On the web, it is built with plain HTML, CSS and Vanilla Javascript. To have a s
 Built entirely with Swift except for couple of methods written in Objective-C, the iOS version of Apollo Journal is built in accordance with the Human Interface Guidelines implemented by Apple. The main view is a TableViewCell with a Title, Body and an image link contained in each cell.
 
 ## Backend
-Node.js was used to built the backend in JSON format with Express.js and Sails MVC. Users-specific data are stored as objects such as the Title, the Body and the Image for each post. The user can create and/or login to their account with their email and password.
+Node.js was used to build the backend in a JSON format with Express.js and Sails MVC. Users-specific data such as the Title, the Body and the Image are stored in a local server as objects. The user can create and/or login to their account with their email and password.
 
 ## Contact
 If you have any questions, I'd be more than happy to chat on Twitter @JosephCodes_
